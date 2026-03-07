@@ -20,7 +20,7 @@ NOTE
 ### Al-alcím
 `Console.log("Hello World");`
 
-```c#
+```cs
 Console.log("Almafa123");
 ```
 
